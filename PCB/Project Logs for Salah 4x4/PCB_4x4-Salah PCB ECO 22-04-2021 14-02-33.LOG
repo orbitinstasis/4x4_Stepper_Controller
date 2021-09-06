@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=Encoder Old Footprint=COM09117 New Footprint=PEC11R4230KS0024
+Change Component Comment : Designator=Encoder Old Comment=COM-09117 New Comment=PEC11R-4230K-S0024
+Change component parameters: Designator = "Encoder" ("Encoder"); Footprint = "COM09117"; UniqueID = "\JFSGBDWA\LOUEPUHA" ("\JFSGBDWA\LOUEPUHA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/54/PEC11R-777457.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "36.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PEC11R-4230K-S0024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PEC11R4230KS0024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PEC11R-4230K-S0024?qs=5aG0NVq1C4wTaYIm44OGuA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E_COM Pin=Encoder-1
+Added Pin To Net: NetName=E_COM Pin=Teensy 4.1-18
+Added Net: Name=E_COM
+Added Pin To Net: NetName=E_NO Pin=Encoder-2
+Added Pin To Net: NetName=E_NO Pin=Teensy 4.1-19
+Added Net: Name=E_NO

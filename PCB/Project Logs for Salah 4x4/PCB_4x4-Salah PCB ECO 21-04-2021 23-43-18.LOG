@@ -1,0 +1,4 @@
+Added Component: Designator=RGB Encoder(ENCODER_LED_3)
+Add component (AddParameter): Name = "PROD_ID"; Value = "RES-10859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-10982"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Controller Member=Component RGB Encoder Illuminated Rotary Encoder w/ RGB LED and select switch    Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.   This encoder includes an RGB LED and a push-down select switch.   Part #: Top Up EC12PLRGBSDVBF-D SparkFun Products  Rotary Encoder - Illuminated (RGB) (COM-10982)

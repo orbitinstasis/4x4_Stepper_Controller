@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=But_2 Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=But_2 Pin=S2-3
+Added Member To Class: ClassName=Controller Member=Component IC2 TEENSY_4.1

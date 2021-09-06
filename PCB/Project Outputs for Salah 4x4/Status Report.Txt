@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Salah 4x4.PrjPcb]
+   Generated File[PCB_4x4-Salah.TXT]
+   Generated File[PCB_4x4-Salah.LDP]
+   Generated File[PCB_4x4-Salah.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:09:26 On 27/04/2021

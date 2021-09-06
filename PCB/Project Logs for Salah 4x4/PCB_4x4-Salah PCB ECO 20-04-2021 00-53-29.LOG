@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=But_1 Pin=IC2-20
+Removed Pin From Net: NetName=Sleep Pin=IC2-29
+Added Pin To Net: NetName=GND Pin=IC2-17
+Added Pin To Net: NetName=Sleep Pin=IC2-20
+Added Pin To Net: NetName=GND Pin=IC2-34

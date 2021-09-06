@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=RGB Encoder NewDesignator=Encoder
+Added Pin To Net: NetName=E_A Pin=Encoder-A
+Added Pin To Net: NetName=E_A Pin=Teensy 4.1-33
+Added Net: Name=E_A
+Added Pin To Net: NetName=E_B Pin=Encoder-B
+Added Pin To Net: NetName=E_B Pin=Teensy 4.1-12
+Added Net: Name=E_B
+Added Pin To Net: NetName=E_C Pin=Encoder-C
+Added Pin To Net: NetName=E_C Pin=Teensy 4.1-34
+Added Net: Name=E_C

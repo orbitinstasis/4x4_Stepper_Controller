@@ -1,0 +1,12 @@
+Added Component: Designator=S1(TACTILE_SWITCH_PTH_6.0MM)
+Add component (AddParameter): Name = "PROD_ID"; Value = "SWCH-08441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-00097"; VariantName = "[No Variations]"
+Added Component: Designator=S2(TACTILE_SWITCH_PTH_6.0MM)
+Add component (AddParameter): Name = "PROD_ID"; Value = "SWCH-08441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-00097"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=But_1 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=But_2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Member To Class: ClassName=Controller Member=Component S1
+Added Member To Class: ClassName=Controller Member=Component S2

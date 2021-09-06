@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=But_1 Pin=S1-1
+Removed Pin From Net: NetName=But_2 Pin=S2-3
+Added Pin To Net: NetName=But_2 Pin=S1-1
+Added Pin To Net: NetName=But_1 Pin=S2-3
+Added Room: Name=Sch_Salah_Top

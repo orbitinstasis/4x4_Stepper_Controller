@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=But_1 Pin=Left-1
+Removed Pin From Net: NetName=But_2 Pin=Right-3
+Removed Pin From Net: NetName=But_1 Pin=Teensy-17
+Added Pin To Net: NetName=But_2 Pin=Left-1
+Added Pin To Net: NetName=But_1 Pin=Right-3

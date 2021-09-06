@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Steps14 Pin=IC2-24
+Removed Pin From Net: NetName=Steps15 Pin=IC2-25
+Removed Pin From Net: NetName=Steps16 Pin=IC2-26
+Added Pin To Net: NetName=Steps12 Pin=IC2-24
+Added Pin To Net: NetName=Steps11 Pin=IC2-25
+Added Pin To Net: NetName=Steps10 Pin=IC2-26
+Added Pin To Net: NetName=Steps9 Pin=IC2-27

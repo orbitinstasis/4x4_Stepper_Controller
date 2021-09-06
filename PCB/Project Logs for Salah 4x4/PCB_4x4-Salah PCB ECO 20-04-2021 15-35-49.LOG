@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=Controller Member=IC?
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Pin To Net: NetName=Steps2 Pin=IC2-1
+Added Pin To Net: NetName=Steps3 Pin=IC2-2
+Added Pin To Net: NetName=Steps4 Pin=IC2-3
+Added Pin To Net: NetName=Steps5 Pin=IC2-4
+Added Pin To Net: NetName=Steps6 Pin=IC2-5
+Added Pin To Net: NetName=Steps7 Pin=IC2-6
+Added Pin To Net: NetName=Steps8 Pin=IC2-7
+Added Pin To Net: NetName=Steps9 Pin=IC2-8
+Added Pin To Net: NetName=Steps10 Pin=IC2-9
+Added Pin To Net: NetName=Steps11 Pin=IC2-10
+Added Pin To Net: NetName=Steps12 Pin=IC2-11
+Added Pin To Net: NetName=Steps13 Pin=IC2-12
+Added Pin To Net: NetName=Steps14 Pin=IC2-24
+Added Pin To Net: NetName=Steps15 Pin=IC2-25
+Added Pin To Net: NetName=Steps16 Pin=IC2-26
+Added Pin To Net: NetName=Sleep Pin=IC2-27
+Added Pin To Net: NetName=Dir Pin=IC2-28
+Added Pin To Net: NetName=MS1 Pin=IC2-29
+Added Pin To Net: NetName=MS2 Pin=IC2-30
+Added Pin To Net: NetName=I1 Pin=IC2-31
+Added Pin To Net: NetName=I2 Pin=IC2-32
+Added Pin To Net: NetName=But_1 Pin=IC2-33
+Added Pin To Net: NetName=But_2 Pin=IC2-34
+Added Pin To Net: NetName=GND Pin=IC2-45
+Added Pin To Net: NetName=GND Pin=IC2-48
+Added Pin To Net: NetName=GND Pin=IC2-49
+Added Pin To Net: NetName=Steps1 Pin=IC2-57
+Added Pin To Net: NetName=3V3 Pin=IC2-53
+Added Net: Name=3V3

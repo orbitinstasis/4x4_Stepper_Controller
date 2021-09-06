@@ -1,0 +1,906 @@
+Added Component: Designator=C1_S1(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S2(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S3(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S4(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S5(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S6(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S7(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S8(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S9(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S10(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S11(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S12(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S13(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S14(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S15(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_S16(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 6.3 mm, Body Length 11.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=HOLE1(M3 STAND OFF - RING)
+Added Component: Designator=HOLE2(M3 STAND OFF - RING)
+Added Component: Designator=HOLE3(M3 STAND OFF - RING)
+Added Component: Designator=HOLE4(M3 STAND OFF - RING)
+Added Component: Designator=IC1_S1(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S2(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S3(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S4(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S5(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S6(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S7(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S8(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S9(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S10(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S11(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S12(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S13(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S14(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S15(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_S16(MP6500)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "2969-MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "pololu-stepper-driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MP6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MP6500"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(TEENSY40)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.pjrc.com/store/teensy40.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Teensy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TEENSY 4.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Stepper_1_S1(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S2(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S3(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S4(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S5(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S6(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S7(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S8(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S9(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S10(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S11(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S12(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S13(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S14(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S15(Planetary Micro Stepper)
+Added Component: Designator=Stepper_1_S16(Planetary Micro Stepper)
+Added Pin To Net: NetName=Vmot Pin=C1_S1-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S1-2
+Added Pin To Net: NetName=Vmot Pin=C1_S2-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S2-2
+Added Pin To Net: NetName=Vmot Pin=C1_S3-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S3-2
+Added Pin To Net: NetName=Vmot Pin=C1_S4-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S4-2
+Added Pin To Net: NetName=Vmot Pin=C1_S5-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S5-2
+Added Pin To Net: NetName=Vmot Pin=C1_S6-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S6-2
+Added Pin To Net: NetName=Vmot Pin=C1_S7-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S7-2
+Added Pin To Net: NetName=Vmot Pin=C1_S8-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S8-2
+Added Pin To Net: NetName=Vmot Pin=C1_S9-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S9-2
+Added Pin To Net: NetName=Vmot Pin=C1_S10-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S10-2
+Added Pin To Net: NetName=Vmot Pin=C1_S11-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S11-2
+Added Pin To Net: NetName=Vmot Pin=C1_S12-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S12-2
+Added Pin To Net: NetName=Vmot Pin=C1_S13-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S13-2
+Added Pin To Net: NetName=Vmot Pin=C1_S14-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S14-2
+Added Pin To Net: NetName=Vmot Pin=C1_S15-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S15-2
+Added Pin To Net: NetName=Vmot Pin=C1_S16-1
+Added Pin To Net: NetName=GNDmot Pin=C1_S16-2
+Added Pin To Net: NetName=MS1_S1 Pin=IC1_S1-2
+Added Pin To Net: NetName=MS2_S1 Pin=IC1_S1-3
+Added Pin To Net: NetName=I1_S1 Pin=IC1_S1-4
+Added Pin To Net: NetName=I2_S1 Pin=IC1_S1-5
+Added Pin To Net: NetName=Sleep_S1 Pin=IC1_S1-6
+Added Pin To Net: NetName=Steps1 Pin=IC1_S1-7
+Added Pin To Net: NetName=Dir_S1 Pin=IC1_S1-8
+Added Pin To Net: NetName=GND Pin=IC1_S1-9
+Added Pin To Net: NetName=A-_S1 Pin=IC1_S1-11
+Added Pin To Net: NetName=A+_S1 Pin=IC1_S1-12
+Added Pin To Net: NetName=B+_S1 Pin=IC1_S1-13
+Added Pin To Net: NetName=B-_S1 Pin=IC1_S1-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S1-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S1-16
+Added Pin To Net: NetName=MS1_S2 Pin=IC1_S2-2
+Added Pin To Net: NetName=MS2_S2 Pin=IC1_S2-3
+Added Pin To Net: NetName=I1_S2 Pin=IC1_S2-4
+Added Pin To Net: NetName=I2_S2 Pin=IC1_S2-5
+Added Pin To Net: NetName=Sleep_S2 Pin=IC1_S2-6
+Added Pin To Net: NetName=Steps2 Pin=IC1_S2-7
+Added Pin To Net: NetName=Dir_S2 Pin=IC1_S2-8
+Added Pin To Net: NetName=GND Pin=IC1_S2-9
+Added Pin To Net: NetName=A-_S2 Pin=IC1_S2-11
+Added Pin To Net: NetName=A+_S2 Pin=IC1_S2-12
+Added Pin To Net: NetName=B+_S2 Pin=IC1_S2-13
+Added Pin To Net: NetName=B-_S2 Pin=IC1_S2-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S2-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S2-16
+Added Pin To Net: NetName=MS1_S3 Pin=IC1_S3-2
+Added Pin To Net: NetName=MS2_S3 Pin=IC1_S3-3
+Added Pin To Net: NetName=I1_S3 Pin=IC1_S3-4
+Added Pin To Net: NetName=I2_S3 Pin=IC1_S3-5
+Added Pin To Net: NetName=Sleep_S3 Pin=IC1_S3-6
+Added Pin To Net: NetName=Steps3 Pin=IC1_S3-7
+Added Pin To Net: NetName=Dir_S3 Pin=IC1_S3-8
+Added Pin To Net: NetName=GND Pin=IC1_S3-9
+Added Pin To Net: NetName=A-_S3 Pin=IC1_S3-11
+Added Pin To Net: NetName=A+_S3 Pin=IC1_S3-12
+Added Pin To Net: NetName=B+_S3 Pin=IC1_S3-13
+Added Pin To Net: NetName=B-_S3 Pin=IC1_S3-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S3-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S3-16
+Added Pin To Net: NetName=MS1_S4 Pin=IC1_S4-2
+Added Pin To Net: NetName=MS2_S4 Pin=IC1_S4-3
+Added Pin To Net: NetName=I1_S4 Pin=IC1_S4-4
+Added Pin To Net: NetName=I2_S4 Pin=IC1_S4-5
+Added Pin To Net: NetName=Sleep_S4 Pin=IC1_S4-6
+Added Pin To Net: NetName=Steps4 Pin=IC1_S4-7
+Added Pin To Net: NetName=Dir_S4 Pin=IC1_S4-8
+Added Pin To Net: NetName=GND Pin=IC1_S4-9
+Added Pin To Net: NetName=A-_S4 Pin=IC1_S4-11
+Added Pin To Net: NetName=A+_S4 Pin=IC1_S4-12
+Added Pin To Net: NetName=B+_S4 Pin=IC1_S4-13
+Added Pin To Net: NetName=B-_S4 Pin=IC1_S4-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S4-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S4-16
+Added Pin To Net: NetName=MS1_S5 Pin=IC1_S5-2
+Added Pin To Net: NetName=MS2_S5 Pin=IC1_S5-3
+Added Pin To Net: NetName=I1_S5 Pin=IC1_S5-4
+Added Pin To Net: NetName=I2_S5 Pin=IC1_S5-5
+Added Pin To Net: NetName=Sleep_S5 Pin=IC1_S5-6
+Added Pin To Net: NetName=Steps5 Pin=IC1_S5-7
+Added Pin To Net: NetName=Dir_S5 Pin=IC1_S5-8
+Added Pin To Net: NetName=GND Pin=IC1_S5-9
+Added Pin To Net: NetName=A-_S5 Pin=IC1_S5-11
+Added Pin To Net: NetName=A+_S5 Pin=IC1_S5-12
+Added Pin To Net: NetName=B+_S5 Pin=IC1_S5-13
+Added Pin To Net: NetName=B-_S5 Pin=IC1_S5-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S5-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S5-16
+Added Pin To Net: NetName=MS1_S6 Pin=IC1_S6-2
+Added Pin To Net: NetName=MS2_S6 Pin=IC1_S6-3
+Added Pin To Net: NetName=I1_S6 Pin=IC1_S6-4
+Added Pin To Net: NetName=I2_S6 Pin=IC1_S6-5
+Added Pin To Net: NetName=Sleep_S6 Pin=IC1_S6-6
+Added Pin To Net: NetName=Steps6 Pin=IC1_S6-7
+Added Pin To Net: NetName=Dir_S6 Pin=IC1_S6-8
+Added Pin To Net: NetName=GND Pin=IC1_S6-9
+Added Pin To Net: NetName=A-_S6 Pin=IC1_S6-11
+Added Pin To Net: NetName=A+_S6 Pin=IC1_S6-12
+Added Pin To Net: NetName=B+_S6 Pin=IC1_S6-13
+Added Pin To Net: NetName=B-_S6 Pin=IC1_S6-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S6-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S6-16
+Added Pin To Net: NetName=MS1_S7 Pin=IC1_S7-2
+Added Pin To Net: NetName=MS2_S7 Pin=IC1_S7-3
+Added Pin To Net: NetName=I1_S7 Pin=IC1_S7-4
+Added Pin To Net: NetName=I2_S7 Pin=IC1_S7-5
+Added Pin To Net: NetName=Sleep_S7 Pin=IC1_S7-6
+Added Pin To Net: NetName=Steps7 Pin=IC1_S7-7
+Added Pin To Net: NetName=Dir_S7 Pin=IC1_S7-8
+Added Pin To Net: NetName=GND Pin=IC1_S7-9
+Added Pin To Net: NetName=A-_S7 Pin=IC1_S7-11
+Added Pin To Net: NetName=A+_S7 Pin=IC1_S7-12
+Added Pin To Net: NetName=B+_S7 Pin=IC1_S7-13
+Added Pin To Net: NetName=B-_S7 Pin=IC1_S7-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S7-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S7-16
+Added Pin To Net: NetName=MS1_S8 Pin=IC1_S8-2
+Added Pin To Net: NetName=MS2_S8 Pin=IC1_S8-3
+Added Pin To Net: NetName=I1_S8 Pin=IC1_S8-4
+Added Pin To Net: NetName=I2_S8 Pin=IC1_S8-5
+Added Pin To Net: NetName=Sleep_S8 Pin=IC1_S8-6
+Added Pin To Net: NetName=Steps8 Pin=IC1_S8-7
+Added Pin To Net: NetName=Dir_S8 Pin=IC1_S8-8
+Added Pin To Net: NetName=GND Pin=IC1_S8-9
+Added Pin To Net: NetName=A-_S8 Pin=IC1_S8-11
+Added Pin To Net: NetName=A+_S8 Pin=IC1_S8-12
+Added Pin To Net: NetName=B+_S8 Pin=IC1_S8-13
+Added Pin To Net: NetName=B-_S8 Pin=IC1_S8-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S8-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S8-16
+Added Pin To Net: NetName=MS1_S9 Pin=IC1_S9-2
+Added Pin To Net: NetName=MS2_S9 Pin=IC1_S9-3
+Added Pin To Net: NetName=I1_S9 Pin=IC1_S9-4
+Added Pin To Net: NetName=I2_S9 Pin=IC1_S9-5
+Added Pin To Net: NetName=Sleep_S9 Pin=IC1_S9-6
+Added Pin To Net: NetName=Steps9 Pin=IC1_S9-7
+Added Pin To Net: NetName=Dir_S9 Pin=IC1_S9-8
+Added Pin To Net: NetName=GND Pin=IC1_S9-9
+Added Pin To Net: NetName=A-_S9 Pin=IC1_S9-11
+Added Pin To Net: NetName=A+_S9 Pin=IC1_S9-12
+Added Pin To Net: NetName=B+_S9 Pin=IC1_S9-13
+Added Pin To Net: NetName=B-_S9 Pin=IC1_S9-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S9-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S9-16
+Added Pin To Net: NetName=MS1_S10 Pin=IC1_S10-2
+Added Pin To Net: NetName=MS2_S10 Pin=IC1_S10-3
+Added Pin To Net: NetName=I1_S10 Pin=IC1_S10-4
+Added Pin To Net: NetName=I2_S10 Pin=IC1_S10-5
+Added Pin To Net: NetName=Sleep_S10 Pin=IC1_S10-6
+Added Pin To Net: NetName=Steps10 Pin=IC1_S10-7
+Added Pin To Net: NetName=Dir_S10 Pin=IC1_S10-8
+Added Pin To Net: NetName=GND Pin=IC1_S10-9
+Added Pin To Net: NetName=A-_S10 Pin=IC1_S10-11
+Added Pin To Net: NetName=A+_S10 Pin=IC1_S10-12
+Added Pin To Net: NetName=B+_S10 Pin=IC1_S10-13
+Added Pin To Net: NetName=B-_S10 Pin=IC1_S10-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S10-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S10-16
+Added Pin To Net: NetName=MS1_S11 Pin=IC1_S11-2
+Added Pin To Net: NetName=MS2_S11 Pin=IC1_S11-3
+Added Pin To Net: NetName=I1_S11 Pin=IC1_S11-4
+Added Pin To Net: NetName=I2_S11 Pin=IC1_S11-5
+Added Pin To Net: NetName=Sleep_S11 Pin=IC1_S11-6
+Added Pin To Net: NetName=Steps11 Pin=IC1_S11-7
+Added Pin To Net: NetName=Dir_S11 Pin=IC1_S11-8
+Added Pin To Net: NetName=GND Pin=IC1_S11-9
+Added Pin To Net: NetName=A-_S11 Pin=IC1_S11-11
+Added Pin To Net: NetName=A+_S11 Pin=IC1_S11-12
+Added Pin To Net: NetName=B+_S11 Pin=IC1_S11-13
+Added Pin To Net: NetName=B-_S11 Pin=IC1_S11-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S11-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S11-16
+Added Pin To Net: NetName=MS1_S12 Pin=IC1_S12-2
+Added Pin To Net: NetName=MS2_S12 Pin=IC1_S12-3
+Added Pin To Net: NetName=I1_S12 Pin=IC1_S12-4
+Added Pin To Net: NetName=I2_S12 Pin=IC1_S12-5
+Added Pin To Net: NetName=Sleep_S12 Pin=IC1_S12-6
+Added Pin To Net: NetName=Steps12 Pin=IC1_S12-7
+Added Pin To Net: NetName=Dir_S12 Pin=IC1_S12-8
+Added Pin To Net: NetName=GND Pin=IC1_S12-9
+Added Pin To Net: NetName=A-_S12 Pin=IC1_S12-11
+Added Pin To Net: NetName=A+_S12 Pin=IC1_S12-12
+Added Pin To Net: NetName=B+_S12 Pin=IC1_S12-13
+Added Pin To Net: NetName=B-_S12 Pin=IC1_S12-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S12-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S12-16
+Added Pin To Net: NetName=MS1_S13 Pin=IC1_S13-2
+Added Pin To Net: NetName=MS2_S13 Pin=IC1_S13-3
+Added Pin To Net: NetName=I1_S13 Pin=IC1_S13-4
+Added Pin To Net: NetName=I2_S13 Pin=IC1_S13-5
+Added Pin To Net: NetName=Sleep_S13 Pin=IC1_S13-6
+Added Pin To Net: NetName=Steps13 Pin=IC1_S13-7
+Added Pin To Net: NetName=Dir_S13 Pin=IC1_S13-8
+Added Pin To Net: NetName=GND Pin=IC1_S13-9
+Added Pin To Net: NetName=A-_S13 Pin=IC1_S13-11
+Added Pin To Net: NetName=A+_S13 Pin=IC1_S13-12
+Added Pin To Net: NetName=B+_S13 Pin=IC1_S13-13
+Added Pin To Net: NetName=B-_S13 Pin=IC1_S13-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S13-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S13-16
+Added Pin To Net: NetName=MS1_S14 Pin=IC1_S14-2
+Added Pin To Net: NetName=MS2_S14 Pin=IC1_S14-3
+Added Pin To Net: NetName=I1_S14 Pin=IC1_S14-4
+Added Pin To Net: NetName=I2_S14 Pin=IC1_S14-5
+Added Pin To Net: NetName=Sleep_S14 Pin=IC1_S14-6
+Added Pin To Net: NetName=Steps14 Pin=IC1_S14-7
+Added Pin To Net: NetName=Dir_S14 Pin=IC1_S14-8
+Added Pin To Net: NetName=GND Pin=IC1_S14-9
+Added Pin To Net: NetName=A-_S14 Pin=IC1_S14-11
+Added Pin To Net: NetName=A+_S14 Pin=IC1_S14-12
+Added Pin To Net: NetName=B+_S14 Pin=IC1_S14-13
+Added Pin To Net: NetName=B-_S14 Pin=IC1_S14-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S14-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S14-16
+Added Pin To Net: NetName=MS1_S15 Pin=IC1_S15-2
+Added Pin To Net: NetName=MS2_S15 Pin=IC1_S15-3
+Added Pin To Net: NetName=I1_S15 Pin=IC1_S15-4
+Added Pin To Net: NetName=I2_S15 Pin=IC1_S15-5
+Added Pin To Net: NetName=Sleep_S15 Pin=IC1_S15-6
+Added Pin To Net: NetName=Steps15 Pin=IC1_S15-7
+Added Pin To Net: NetName=Dir_S15 Pin=IC1_S15-8
+Added Pin To Net: NetName=GND Pin=IC1_S15-9
+Added Pin To Net: NetName=A-_S15 Pin=IC1_S15-11
+Added Pin To Net: NetName=A+_S15 Pin=IC1_S15-12
+Added Pin To Net: NetName=B+_S15 Pin=IC1_S15-13
+Added Pin To Net: NetName=B-_S15 Pin=IC1_S15-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S15-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S15-16
+Added Pin To Net: NetName=MS1_S16 Pin=IC1_S16-2
+Added Pin To Net: NetName=MS2_S16 Pin=IC1_S16-3
+Added Pin To Net: NetName=I1_S16 Pin=IC1_S16-4
+Added Pin To Net: NetName=I2_S16 Pin=IC1_S16-5
+Added Pin To Net: NetName=Sleep_S16 Pin=IC1_S16-6
+Added Pin To Net: NetName=Steps16 Pin=IC1_S16-7
+Added Pin To Net: NetName=Dir_S16 Pin=IC1_S16-8
+Added Pin To Net: NetName=GND Pin=IC1_S16-9
+Added Pin To Net: NetName=A-_S16 Pin=IC1_S16-11
+Added Pin To Net: NetName=A+_S16 Pin=IC1_S16-12
+Added Pin To Net: NetName=B+_S16 Pin=IC1_S16-13
+Added Pin To Net: NetName=B-_S16 Pin=IC1_S16-14
+Added Pin To Net: NetName=GNDmot Pin=IC1_S16-15
+Added Pin To Net: NetName=Vmot Pin=IC1_S16-16
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=Steps1 Pin=IC2-2
+Added Pin To Net: NetName=Steps2 Pin=IC2-3
+Added Pin To Net: NetName=Steps3 Pin=IC2-4
+Added Pin To Net: NetName=Steps4 Pin=IC2-5
+Added Pin To Net: NetName=Steps5 Pin=IC2-6
+Added Pin To Net: NetName=Steps6 Pin=IC2-7
+Added Pin To Net: NetName=Steps7 Pin=IC2-8
+Added Pin To Net: NetName=Steps8 Pin=IC2-9
+Added Pin To Net: NetName=Steps9 Pin=IC2-10
+Added Pin To Net: NetName=Steps10 Pin=IC2-11
+Added Pin To Net: NetName=Steps11 Pin=IC2-12
+Added Pin To Net: NetName=Steps12 Pin=IC2-13
+Added Pin To Net: NetName=Steps13 Pin=IC2-14
+Added Pin To Net: NetName=Dir Pin=IC2-24
+Added Pin To Net: NetName=MS1 Pin=IC2-25
+Added Pin To Net: NetName=MS2 Pin=IC2-26
+Added Pin To Net: NetName=I1 Pin=IC2-27
+Added Pin To Net: NetName=I2 Pin=IC2-28
+Added Pin To Net: NetName=Sleep Pin=IC2-29
+Added Pin To Net: NetName=3V3 Pin=IC2-31
+Added Pin To Net: NetName=GND Pin=IC2-32
+Added Pin To Net: NetName=A+_S1 Pin=Stepper_1_S1-A+
+Added Pin To Net: NetName=A-_S1 Pin=Stepper_1_S1-A-
+Added Pin To Net: NetName=B+_S1 Pin=Stepper_1_S1-B+
+Added Pin To Net: NetName=B-_S1 Pin=Stepper_1_S1-B-
+Added Pin To Net: NetName=A+_S2 Pin=Stepper_1_S2-A+
+Added Pin To Net: NetName=A-_S2 Pin=Stepper_1_S2-A-
+Added Pin To Net: NetName=B+_S2 Pin=Stepper_1_S2-B+
+Added Pin To Net: NetName=B-_S2 Pin=Stepper_1_S2-B-
+Added Pin To Net: NetName=A+_S3 Pin=Stepper_1_S3-A+
+Added Pin To Net: NetName=A-_S3 Pin=Stepper_1_S3-A-
+Added Pin To Net: NetName=B+_S3 Pin=Stepper_1_S3-B+
+Added Pin To Net: NetName=B-_S3 Pin=Stepper_1_S3-B-
+Added Pin To Net: NetName=A+_S4 Pin=Stepper_1_S4-A+
+Added Pin To Net: NetName=A-_S4 Pin=Stepper_1_S4-A-
+Added Pin To Net: NetName=B+_S4 Pin=Stepper_1_S4-B+
+Added Pin To Net: NetName=B-_S4 Pin=Stepper_1_S4-B-
+Added Pin To Net: NetName=A+_S5 Pin=Stepper_1_S5-A+
+Added Pin To Net: NetName=A-_S5 Pin=Stepper_1_S5-A-
+Added Pin To Net: NetName=B+_S5 Pin=Stepper_1_S5-B+
+Added Pin To Net: NetName=B-_S5 Pin=Stepper_1_S5-B-
+Added Pin To Net: NetName=A+_S6 Pin=Stepper_1_S6-A+
+Added Pin To Net: NetName=A-_S6 Pin=Stepper_1_S6-A-
+Added Pin To Net: NetName=B+_S6 Pin=Stepper_1_S6-B+
+Added Pin To Net: NetName=B-_S6 Pin=Stepper_1_S6-B-
+Added Pin To Net: NetName=A+_S7 Pin=Stepper_1_S7-A+
+Added Pin To Net: NetName=A-_S7 Pin=Stepper_1_S7-A-
+Added Pin To Net: NetName=B+_S7 Pin=Stepper_1_S7-B+
+Added Pin To Net: NetName=B-_S7 Pin=Stepper_1_S7-B-
+Added Pin To Net: NetName=A+_S8 Pin=Stepper_1_S8-A+
+Added Pin To Net: NetName=A-_S8 Pin=Stepper_1_S8-A-
+Added Pin To Net: NetName=B+_S8 Pin=Stepper_1_S8-B+
+Added Pin To Net: NetName=B-_S8 Pin=Stepper_1_S8-B-
+Added Pin To Net: NetName=A+_S9 Pin=Stepper_1_S9-A+
+Added Pin To Net: NetName=A-_S9 Pin=Stepper_1_S9-A-
+Added Pin To Net: NetName=B+_S9 Pin=Stepper_1_S9-B+
+Added Pin To Net: NetName=B-_S9 Pin=Stepper_1_S9-B-
+Added Pin To Net: NetName=A+_S10 Pin=Stepper_1_S10-A+
+Added Pin To Net: NetName=A-_S10 Pin=Stepper_1_S10-A-
+Added Pin To Net: NetName=B+_S10 Pin=Stepper_1_S10-B+
+Added Pin To Net: NetName=B-_S10 Pin=Stepper_1_S10-B-
+Added Pin To Net: NetName=A+_S11 Pin=Stepper_1_S11-A+
+Added Pin To Net: NetName=A-_S11 Pin=Stepper_1_S11-A-
+Added Pin To Net: NetName=B+_S11 Pin=Stepper_1_S11-B+
+Added Pin To Net: NetName=B-_S11 Pin=Stepper_1_S11-B-
+Added Pin To Net: NetName=A+_S12 Pin=Stepper_1_S12-A+
+Added Pin To Net: NetName=A-_S12 Pin=Stepper_1_S12-A-
+Added Pin To Net: NetName=B+_S12 Pin=Stepper_1_S12-B+
+Added Pin To Net: NetName=B-_S12 Pin=Stepper_1_S12-B-
+Added Pin To Net: NetName=A+_S13 Pin=Stepper_1_S13-A+
+Added Pin To Net: NetName=A-_S13 Pin=Stepper_1_S13-A-
+Added Pin To Net: NetName=B+_S13 Pin=Stepper_1_S13-B+
+Added Pin To Net: NetName=B-_S13 Pin=Stepper_1_S13-B-
+Added Pin To Net: NetName=A+_S14 Pin=Stepper_1_S14-A+
+Added Pin To Net: NetName=A-_S14 Pin=Stepper_1_S14-A-
+Added Pin To Net: NetName=B+_S14 Pin=Stepper_1_S14-B+
+Added Pin To Net: NetName=B-_S14 Pin=Stepper_1_S14-B-
+Added Pin To Net: NetName=A+_S15 Pin=Stepper_1_S15-A+
+Added Pin To Net: NetName=A-_S15 Pin=Stepper_1_S15-A-
+Added Pin To Net: NetName=B+_S15 Pin=Stepper_1_S15-B+
+Added Pin To Net: NetName=B-_S15 Pin=Stepper_1_S15-B-
+Added Pin To Net: NetName=A+_S16 Pin=Stepper_1_S16-A+
+Added Pin To Net: NetName=A-_S16 Pin=Stepper_1_S16-A-
+Added Pin To Net: NetName=B+_S16 Pin=Stepper_1_S16-B+
+Added Pin To Net: NetName=B-_S16 Pin=Stepper_1_S16-B-
+Added Member To Class: ClassName=S1 Member=Component C1_S1 (C1) ECA-1VM101
+Added Member To Class: ClassName=S2 Member=Component C1_S2 (C1) ECA-1VM101
+Added Member To Class: ClassName=S3 Member=Component C1_S3 (C1) ECA-1VM101
+Added Member To Class: ClassName=S4 Member=Component C1_S4 (C1) ECA-1VM101
+Added Member To Class: ClassName=S5 Member=Component C1_S5 (C1) ECA-1VM101
+Added Member To Class: ClassName=S6 Member=Component C1_S6 (C1) ECA-1VM101
+Added Member To Class: ClassName=S7 Member=Component C1_S7 (C1) ECA-1VM101
+Added Member To Class: ClassName=S8 Member=Component C1_S8 (C1) ECA-1VM101
+Added Member To Class: ClassName=S9 Member=Component C1_S9 (C1) ECA-1VM101
+Added Member To Class: ClassName=S10 Member=Component C1_S10 (C1) ECA-1VM101
+Added Member To Class: ClassName=S11 Member=Component C1_S11 (C1) ECA-1VM101
+Added Member To Class: ClassName=S12 Member=Component C1_S12 (C1) ECA-1VM101
+Added Member To Class: ClassName=S13 Member=Component C1_S13 (C1) ECA-1VM101
+Added Member To Class: ClassName=S14 Member=Component C1_S14 (C1) ECA-1VM101
+Added Member To Class: ClassName=S15 Member=Component C1_S15 (C1) ECA-1VM101
+Added Member To Class: ClassName=S16 Member=Component C1_S16 (C1) ECA-1VM101
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE1 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE2 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE3 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE4 M3 Mounting Hole
+Added Member To Class: ClassName=S1 Member=Component IC1_S1 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S2 Member=Component IC1_S2 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S3 Member=Component IC1_S3 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S4 Member=Component IC1_S4 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S5 Member=Component IC1_S5 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S6 Member=Component IC1_S6 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S7 Member=Component IC1_S7 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S8 Member=Component IC1_S8 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S9 Member=Component IC1_S9 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S10 Member=Component IC1_S10 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S11 Member=Component IC1_S11 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S12 Member=Component IC1_S12 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S13 Member=Component IC1_S13 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S14 Member=Component IC1_S14 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S15 Member=Component IC1_S15 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S16 Member=Component IC1_S16 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=Controller Member=Component IC2 TEENSY_4.0
+Added Member To Class: ClassName=S1 Member=Component Stepper_1_S1 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S2 Member=Component Stepper_1_S2 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S3 Member=Component Stepper_1_S3 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S4 Member=Component Stepper_1_S4 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S5 Member=Component Stepper_1_S5 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S6 Member=Component Stepper_1_S6 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S7 Member=Component Stepper_1_S7 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S8 Member=Component Stepper_1_S8 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S9 Member=Component Stepper_1_S9 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S10 Member=Component Stepper_1_S10 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S11 Member=Component Stepper_1_S11 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S12 Member=Component Stepper_1_S12 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S13 Member=Component Stepper_1_S13 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S14 Member=Component Stepper_1_S14 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S15 Member=Component Stepper_1_S15 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S16 Member=Component Stepper_1_S16 (Stepper_1) Planetary Gear
+Added Room: Name=Controller
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S3
+Added Room: Name=S4
+Added Room: Name=S5
+Added Room: Name=S6
+Added Room: Name=S7
+Added Room: Name=S8
+Added Room: Name=S9
+Added Room: Name=S10
+Added Room: Name=S11
+Added Room: Name=S12
+Added Room: Name=S13
+Added Room: Name=S14
+Added Room: Name=S15
+Added Room: Name=S16
+Added Room: Name=Sch_Salah_Top

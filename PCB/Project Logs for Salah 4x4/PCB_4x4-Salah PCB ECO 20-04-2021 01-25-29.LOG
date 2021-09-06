@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=A+A Pin=Mot_1A-A+
+Removed Pin From Net: NetName=A-A Pin=Mot_1A-A-
+Removed Pin From Net: NetName=B+A Pin=Mot_1A-B+
+Removed Pin From Net: NetName=B-A Pin=Mot_1A-B-
+Removed Pin From Net: NetName=A+B Pin=Mot_1B-A+
+Removed Pin From Net: NetName=A-B Pin=Mot_1B-A-
+Removed Pin From Net: NetName=B+B Pin=Mot_1B-B+
+Removed Pin From Net: NetName=B-B Pin=Mot_1B-B-
+Removed Pin From Net: NetName=A+C Pin=Mot_1C-A+
+Removed Pin From Net: NetName=A-C Pin=Mot_1C-A-
+Removed Pin From Net: NetName=B+C Pin=Mot_1C-B+
+Removed Pin From Net: NetName=B-C Pin=Mot_1C-B-
+Removed Pin From Net: NetName=A+D Pin=Mot_1D-A+
+Removed Pin From Net: NetName=A-D Pin=Mot_1D-A-
+Removed Pin From Net: NetName=B+D Pin=Mot_1D-B+
+Removed Pin From Net: NetName=B-D Pin=Mot_1D-B-
+Removed Pin From Net: NetName=A+E Pin=Mot_1E-A+
+Removed Pin From Net: NetName=A-E Pin=Mot_1E-A-
+Removed Pin From Net: NetName=B+E Pin=Mot_1E-B+
+Removed Pin From Net: NetName=B-E Pin=Mot_1E-B-
+Removed Pin From Net: NetName=A+F Pin=Mot_1F-A+
+Removed Pin From Net: NetName=A-F Pin=Mot_1F-A-
+Removed Pin From Net: NetName=B+F Pin=Mot_1F-B+
+Removed Pin From Net: NetName=B-F Pin=Mot_1F-B-
+Removed Pin From Net: NetName=A+G Pin=Mot_1G-A+
+Removed Pin From Net: NetName=A-G Pin=Mot_1G-A-
+Removed Pin From Net: NetName=B+G Pin=Mot_1G-B+
+Removed Pin From Net: NetName=B-G Pin=Mot_1G-B-
+Removed Pin From Net: NetName=A+H Pin=Mot_1H-A+
+Removed Pin From Net: NetName=A-H Pin=Mot_1H-A-
+Removed Pin From Net: NetName=B+H Pin=Mot_1H-B+
+Removed Pin From Net: NetName=B-H Pin=Mot_1H-B-
+Removed Pin From Net: NetName=A+I Pin=Mot_1I-A+
+Removed Pin From Net: NetName=A-I Pin=Mot_1I-A-
+Removed Pin From Net: NetName=B+I Pin=Mot_1I-B+
+Removed Pin From Net: NetName=B-I Pin=Mot_1I-B-
+Removed Pin From Net: NetName=A+J Pin=Mot_1J-A+
+Removed Pin From Net: NetName=A-J Pin=Mot_1J-A-
+Removed Pin From Net: NetName=B+J Pin=Mot_1J-B+
+Removed Pin From Net: NetName=B-J Pin=Mot_1J-B-
+Removed Pin From Net: NetName=A+K Pin=Mot_1K-A+
+Removed Pin From Net: NetName=A-K Pin=Mot_1K-A-
+Removed Pin From Net: NetName=B+K Pin=Mot_1K-B+
+Removed Pin From Net: NetName=B-K Pin=Mot_1K-B-
+Removed Pin From Net: NetName=A+L Pin=Mot_1L-A+
+Removed Pin From Net: NetName=A-L Pin=Mot_1L-A-
+Removed Pin From Net: NetName=B+L Pin=Mot_1L-B+
+Removed Pin From Net: NetName=B-L Pin=Mot_1L-B-
+Removed Pin From Net: NetName=A+M Pin=Mot_1M-A+
+Removed Pin From Net: NetName=A-M Pin=Mot_1M-A-
+Removed Pin From Net: NetName=B+M Pin=Mot_1M-B+
+Removed Pin From Net: NetName=B-M Pin=Mot_1M-B-
+Removed Pin From Net: NetName=A+N Pin=Mot_1N-A+
+Removed Pin From Net: NetName=A-N Pin=Mot_1N-A-
+Removed Pin From Net: NetName=B+N Pin=Mot_1N-B+
+Removed Pin From Net: NetName=B-N Pin=Mot_1N-B-
+Removed Pin From Net: NetName=A+O Pin=Mot_1O-A+
+Removed Pin From Net: NetName=A-O Pin=Mot_1O-A-
+Removed Pin From Net: NetName=B+O Pin=Mot_1O-B+
+Removed Pin From Net: NetName=B-O Pin=Mot_1O-B-
+Removed Pin From Net: NetName=A+P Pin=Mot_1P-A+
+Removed Pin From Net: NetName=A-P Pin=Mot_1P-A-
+Removed Pin From Net: NetName=B+P Pin=Mot_1P-B+
+Removed Pin From Net: NetName=B-P Pin=Mot_1P-B-
+Change Component Footprint: Designator=Mot_1A Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1B Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1C Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1D Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1E Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1F Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1G Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1H Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1I Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1J Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1K Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1L Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1M Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1N Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1O Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Footprint: Designator=Mot_1P Old Footprint=PLANETARY MICRO STEPPER New Footprint=JST-4-PTH-VERT
+Change Component Comment : Designator=Mot_1A Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1B Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1C Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1D Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1E Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1F Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1G Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1H Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1I Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1J Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1K Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1L Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1M Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1N Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1O Old Comment=Planetary Gear New Comment=
+Change Component Comment : Designator=Mot_1P Old Comment=Planetary Gear New Comment=
+Change component parameters: Designator = "Mot_1A" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\1ZVZZKDCN\BPZEFQOJ" ("\1ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1B" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\2ZVZZKDCN\BPZEFQOJ" ("\2ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1C" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\3ZVZZKDCN\BPZEFQOJ" ("\3ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1D" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\4ZVZZKDCN\BPZEFQOJ" ("\4ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1E" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\5ZVZZKDCN\BPZEFQOJ" ("\5ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1F" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\6ZVZZKDCN\BPZEFQOJ" ("\6ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1G" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\7ZVZZKDCN\BPZEFQOJ" ("\7ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1H" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\8ZVZZKDCN\BPZEFQOJ" ("\8ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1I" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\9ZVZZKDCN\BPZEFQOJ" ("\9ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1J" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\10ZVZZKDCN\BPZEFQOJ" ("\10ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1K" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\11ZVZZKDCN\BPZEFQOJ" ("\11ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1L" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\12ZVZZKDCN\BPZEFQOJ" ("\12ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1M" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\13ZVZZKDCN\BPZEFQOJ" ("\13ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1N" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\14ZVZZKDCN\BPZEFQOJ" ("\14ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1O" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\15ZVZZKDCN\BPZEFQOJ" ("\15ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Mot_1P" ("Mot_1"); Footprint = "PLANETARY MICRO STEPPER"; UniqueID = "\16ZVZZKDCN\BPZEFQOJ" ("\16ZVZZKDCN\BPZEFQOJ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-13251"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B+A Pin=Mot_1A-1
+Added Pin To Net: NetName=B-A Pin=Mot_1A-2
+Added Pin To Net: NetName=A-A Pin=Mot_1A-3
+Added Pin To Net: NetName=A+A Pin=Mot_1A-4
+Added Pin To Net: NetName=B+B Pin=Mot_1B-1
+Added Pin To Net: NetName=B-B Pin=Mot_1B-2
+Added Pin To Net: NetName=A-B Pin=Mot_1B-3
+Added Pin To Net: NetName=A+B Pin=Mot_1B-4
+Added Pin To Net: NetName=B+C Pin=Mot_1C-1
+Added Pin To Net: NetName=B-C Pin=Mot_1C-2
+Added Pin To Net: NetName=A-C Pin=Mot_1C-3
+Added Pin To Net: NetName=A+C Pin=Mot_1C-4
+Added Pin To Net: NetName=B+D Pin=Mot_1D-1
+Added Pin To Net: NetName=B-D Pin=Mot_1D-2
+Added Pin To Net: NetName=A-D Pin=Mot_1D-3
+Added Pin To Net: NetName=A+D Pin=Mot_1D-4
+Added Pin To Net: NetName=B+E Pin=Mot_1E-1
+Added Pin To Net: NetName=B-E Pin=Mot_1E-2
+Added Pin To Net: NetName=A-E Pin=Mot_1E-3
+Added Pin To Net: NetName=A+E Pin=Mot_1E-4
+Added Pin To Net: NetName=B+F Pin=Mot_1F-1
+Added Pin To Net: NetName=B-F Pin=Mot_1F-2
+Added Pin To Net: NetName=A-F Pin=Mot_1F-3
+Added Pin To Net: NetName=A+F Pin=Mot_1F-4
+Added Pin To Net: NetName=B+G Pin=Mot_1G-1
+Added Pin To Net: NetName=B-G Pin=Mot_1G-2
+Added Pin To Net: NetName=A-G Pin=Mot_1G-3
+Added Pin To Net: NetName=A+G Pin=Mot_1G-4
+Added Pin To Net: NetName=B+H Pin=Mot_1H-1
+Added Pin To Net: NetName=B-H Pin=Mot_1H-2
+Added Pin To Net: NetName=A-H Pin=Mot_1H-3
+Added Pin To Net: NetName=A+H Pin=Mot_1H-4
+Added Pin To Net: NetName=B+I Pin=Mot_1I-1
+Added Pin To Net: NetName=B-I Pin=Mot_1I-2
+Added Pin To Net: NetName=A-I Pin=Mot_1I-3
+Added Pin To Net: NetName=A+I Pin=Mot_1I-4
+Added Pin To Net: NetName=B+J Pin=Mot_1J-1
+Added Pin To Net: NetName=B-J Pin=Mot_1J-2
+Added Pin To Net: NetName=A-J Pin=Mot_1J-3
+Added Pin To Net: NetName=A+J Pin=Mot_1J-4
+Added Pin To Net: NetName=B+K Pin=Mot_1K-1
+Added Pin To Net: NetName=B-K Pin=Mot_1K-2
+Added Pin To Net: NetName=A-K Pin=Mot_1K-3
+Added Pin To Net: NetName=A+K Pin=Mot_1K-4
+Added Pin To Net: NetName=B+L Pin=Mot_1L-1
+Added Pin To Net: NetName=B-L Pin=Mot_1L-2
+Added Pin To Net: NetName=A-L Pin=Mot_1L-3
+Added Pin To Net: NetName=A+L Pin=Mot_1L-4
+Added Pin To Net: NetName=B+M Pin=Mot_1M-1
+Added Pin To Net: NetName=B-M Pin=Mot_1M-2
+Added Pin To Net: NetName=A-M Pin=Mot_1M-3
+Added Pin To Net: NetName=A+M Pin=Mot_1M-4
+Added Pin To Net: NetName=B+N Pin=Mot_1N-1
+Added Pin To Net: NetName=B-N Pin=Mot_1N-2
+Added Pin To Net: NetName=A-N Pin=Mot_1N-3
+Added Pin To Net: NetName=A+N Pin=Mot_1N-4
+Added Pin To Net: NetName=B+O Pin=Mot_1O-1
+Added Pin To Net: NetName=B-O Pin=Mot_1O-2
+Added Pin To Net: NetName=A-O Pin=Mot_1O-3
+Added Pin To Net: NetName=A+O Pin=Mot_1O-4
+Added Pin To Net: NetName=B+P Pin=Mot_1P-1
+Added Pin To Net: NetName=B-P Pin=Mot_1P-2
+Added Pin To Net: NetName=A-P Pin=Mot_1P-3
+Added Pin To Net: NetName=A+P Pin=Mot_1P-4

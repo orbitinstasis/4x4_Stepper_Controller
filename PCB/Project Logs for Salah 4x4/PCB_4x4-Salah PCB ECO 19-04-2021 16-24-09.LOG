@@ -1,0 +1,60 @@
+Added Component: Designator=PWRmot(POWER_JACK_PTH_LOCK)
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-08197"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_ID"; Value = "PRT-00119"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDmot Pin=PWRmot-GNDBREAK
+Added Pin To Net: NetName=GNDmot Pin=PWRmot-GND
+Added Pin To Net: NetName=Vmot Pin=PWRmot-PWR
+Added Member To Class: ClassName=S1 Member=Component C1_S1 (C1) ECA-1VM101
+Added Member To Class: ClassName=S2 Member=Component C1_S2 (C1) ECA-1VM101
+Added Member To Class: ClassName=S3 Member=Component C1_S3 (C1) ECA-1VM101
+Added Member To Class: ClassName=S4 Member=Component C1_S4 (C1) ECA-1VM101
+Added Member To Class: ClassName=S5 Member=Component C1_S5 (C1) ECA-1VM101
+Added Member To Class: ClassName=S6 Member=Component C1_S6 (C1) ECA-1VM101
+Added Member To Class: ClassName=S7 Member=Component C1_S7 (C1) ECA-1VM101
+Added Member To Class: ClassName=S8 Member=Component C1_S8 (C1) ECA-1VM101
+Added Member To Class: ClassName=S9 Member=Component C1_S9 (C1) ECA-1VM101
+Added Member To Class: ClassName=S10 Member=Component C1_S10 (C1) ECA-1VM101
+Added Member To Class: ClassName=S11 Member=Component C1_S11 (C1) ECA-1VM101
+Added Member To Class: ClassName=S12 Member=Component C1_S12 (C1) ECA-1VM101
+Added Member To Class: ClassName=S13 Member=Component C1_S13 (C1) ECA-1VM101
+Added Member To Class: ClassName=S14 Member=Component C1_S14 (C1) ECA-1VM101
+Added Member To Class: ClassName=S15 Member=Component C1_S15 (C1) ECA-1VM101
+Added Member To Class: ClassName=S16 Member=Component C1_S16 (C1) ECA-1VM101
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE1 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE2 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE3 M3 Mounting Hole
+Added Member To Class: ClassName=Sch_Salah_Top Member=Component HOLE4 M3 Mounting Hole
+Added Member To Class: ClassName=S1 Member=Component IC1_S1 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S2 Member=Component IC1_S2 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S3 Member=Component IC1_S3 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S4 Member=Component IC1_S4 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S5 Member=Component IC1_S5 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S6 Member=Component IC1_S6 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S7 Member=Component IC1_S7 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S8 Member=Component IC1_S8 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S9 Member=Component IC1_S9 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S10 Member=Component IC1_S10 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S11 Member=Component IC1_S11 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S12 Member=Component IC1_S12 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S13 Member=Component IC1_S13 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S14 Member=Component IC1_S14 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S15 Member=Component IC1_S15 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=S16 Member=Component IC1_S16 (IC1) MP6500 with Digital Current
+Added Member To Class: ClassName=Controller Member=Component IC2 TEENSY_4.0
+Added Member To Class: ClassName=Controller Member=Component PWRmot Jack Socket 5.5mm/2.1mm
+Added Member To Class: ClassName=S1 Member=Component Stepper_1_S1 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S2 Member=Component Stepper_1_S2 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S3 Member=Component Stepper_1_S3 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S4 Member=Component Stepper_1_S4 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S5 Member=Component Stepper_1_S5 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S6 Member=Component Stepper_1_S6 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S7 Member=Component Stepper_1_S7 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S8 Member=Component Stepper_1_S8 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S9 Member=Component Stepper_1_S9 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S10 Member=Component Stepper_1_S10 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S11 Member=Component Stepper_1_S11 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S12 Member=Component Stepper_1_S12 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S13 Member=Component Stepper_1_S13 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S14 Member=Component Stepper_1_S14 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S15 Member=Component Stepper_1_S15 (Stepper_1) Planetary Gear
+Added Member To Class: ClassName=S16 Member=Component Stepper_1_S16 (Stepper_1) Planetary Gear

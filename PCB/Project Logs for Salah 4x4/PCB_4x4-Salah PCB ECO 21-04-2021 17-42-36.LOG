@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=But_2 Pin=S1-1
+Removed Pin From Net: NetName=But_1 Pin=S2-3
+Change Component Designator: OldDesignator=S1 NewDesignator=Left
+Change Component Designator: OldDesignator=S2 NewDesignator=Right
+Added Component: Designator=Down(TACTILE_SWITCH_PTH_6.0MM)
+Add component (AddParameter): Name = "PROD_ID"; Value = "SWCH-08441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-00097"; VariantName = "[No Variations]"
+Added Component: Designator=E1(ENCODER_LED_3)
+Add component (AddParameter): Name = "PROD_ID"; Value = "RES-10859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-10982"; VariantName = "[No Variations]"
+Added Component: Designator=Up(TACTILE_SWITCH_PTH_6.0MM)
+Add component (AddParameter): Name = "PROD_ID"; Value = "SWCH-08441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SF_SKU"; Value = "COM-00097"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Down-3
+Added Pin To Net: NetName=E_LED1 Pin=E1-1
+Added Pin To Net: NetName=E_LED2 Pin=E1-2
+Added Pin To Net: NetName=E_Switch Pin=E1-3
+Added Pin To Net: NetName=E_LED3 Pin=E1-4
+Added Pin To Net: NetName=E_Anode Pin=E1-5
+Added Pin To Net: NetName=E_A Pin=E1-A
+Added Pin To Net: NetName=E_B Pin=E1-B
+Added Pin To Net: NetName=E_C Pin=E1-C
+Added Pin To Net: NetName=But_1 Pin=Left-1
+Added Pin To Net: NetName=But_2 Pin=Right-3
+Added Pin To Net: NetName=GND Pin=Up-1
+Added Pin To Net: NetName=But_3 Pin=Up-3
+Added Net: Name=But_3
+Added Pin To Net: NetName=But_4 Pin=Down-1
+Added Net: Name=But_4
+Added Member To Class: ClassName=Controller Member=Component Down
+Added Member To Class: ClassName=Controller Member=Component E1 Illuminated Rotary Encoder w/ RGB LED and select switch    Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.   This encoder includes an RGB LED and a push-down select switch.   Part #: Top Up EC12PLRGBSDVBF-D SparkFun Products  Rotary Encoder - Illuminated (RGB) (COM-10982)
+Added Member To Class: ClassName=Controller Member=Component Up

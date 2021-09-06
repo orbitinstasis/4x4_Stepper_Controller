@@ -1,0 +1,176 @@
+Change Component Footprint: Designator=C1A Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1B Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1C Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1D Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1E Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1F Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1G Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1H Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1I Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1J Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1K Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1L Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1M Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1N Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1O Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Component Footprint: Designator=C1P Old Footprint=CAPPR55-250-1120X630X1220 New Footprint=CAPPRD250W55D655H1220
+Change Managed Component Library Link : Designator=C1A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1I Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1J Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1K Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1L Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1M Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1N Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1O Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change Managed Component Library Link : Designator=C1P Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AD61956A-23FF-4E1B-9483-8C48CBE87A5C New ItemGUID= Old RevisionGUID=C2CA5D45-9E64-40B2-A95B-61FDCE6BDE25 New RevisionGUID=
+Change component parameters: Designator = "C1A" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\1ZVZZKDCN\IDCSDVIU" ("\1ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1B" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\2ZVZZKDCN\IDCSDVIU" ("\2ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1C" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\3ZVZZKDCN\IDCSDVIU" ("\3ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1D" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\4ZVZZKDCN\IDCSDVIU" ("\4ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1E" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\5ZVZZKDCN\IDCSDVIU" ("\5ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1F" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\6ZVZZKDCN\IDCSDVIU" ("\6ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1G" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\7ZVZZKDCN\IDCSDVIU" ("\7ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1H" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\8ZVZZKDCN\IDCSDVIU" ("\8ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1I" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\9ZVZZKDCN\IDCSDVIU" ("\9ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1J" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\10ZVZZKDCN\IDCSDVIU" ("\10ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1K" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\11ZVZZKDCN\IDCSDVIU" ("\11ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1L" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\12ZVZZKDCN\IDCSDVIU" ("\12ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1M" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\13ZVZZKDCN\IDCSDVIU" ("\13ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1N" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\14ZVZZKDCN\IDCSDVIU" ("\14ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1O" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\15ZVZZKDCN\IDCSDVIU" ("\15ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1P" ("C1"); Footprint = "CAPPR55-250-1120X630X1220"; UniqueID = "\16ZVZZKDCN\IDCSDVIU" ("\16ZVZZKDCN\IDCSDVIU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eca-1vm101/panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1078023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ECA-1VM101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D"; VariantName = "[No Variations]"

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Steps3 Pin=Teensy 4.1-1
+Removed Pin From Net: NetName=MS2 Pin=Teensy 4.1-4
+Removed Pin From Net: NetName=E_B Pin=Teensy 4.1-12
+Added Pin To Net: NetName=Steps2 Pin=Teensy 4.1-4
+Added Pin To Net: NetName=MS2 Pin=Teensy 4.1-12
+Added Pin To Net: NetName=E_B Pin=Teensy 4.1-18

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=But_2 Pin=Teensy-16
+Added Pin To Net: NetName=But_1 Pin=Teensy-17

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Steps5 Pin=IC1P-7
+Removed Pin From Net: NetName=Steps2 Pin=IC2-9
+Removed Pin From Net: NetName=Steps5 Pin=IC2-26
+Removed Pin From Net: NetName=Steps5 Pin=IC2-30
+Added Pin To Net: NetName=Steps5 Pin=IC2-9
+Added Pin To Net: NetName=Steps16 Pin=IC1P-7
+Added Pin To Net: NetName=Steps16 Pin=IC2-26
+Added Net: Name=Steps16
+Added Member To Class: ClassName=Steps[1..16] Member=Element[1]: Steps
+Added Member To Class: ClassName=Steps[1..16] Member=Element[15]: Steps

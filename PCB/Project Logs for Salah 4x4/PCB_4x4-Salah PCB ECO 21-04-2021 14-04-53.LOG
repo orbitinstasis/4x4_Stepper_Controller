@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Sleep Pin=IC2-2
+Removed Pin From Net: NetName=Steps1 Pin=IC2-3
+Added Pin To Net: NetName=Steps1 Pin=IC2-2
+Added Pin To Net: NetName=Sleep Pin=IC2-3
+Added Member To Class: ClassName=Steps[1..16] Member=Element[1]: Steps

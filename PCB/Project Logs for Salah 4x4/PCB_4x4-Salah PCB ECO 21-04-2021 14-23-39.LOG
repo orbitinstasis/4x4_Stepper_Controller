@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Dir Pin=IC2-28
+Added Pin To Net: NetName=Steps16 Pin=IC2-28
+Added Pin To Net: NetName=Steps15 Pin=IC2-29
+Added Pin To Net: NetName=Steps14 Pin=IC2-30
+Added Pin To Net: NetName=Steps13 Pin=IC2-31
+Added Pin To Net: NetName=Dir Pin=IC2-32
