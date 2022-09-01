@@ -1,7 +1,7 @@
 #include <Encoder.h>
 #include <AccelStepper.h>
 #include <Bounce2.h>
-#include "AS5311.h"
+//#include "AS5311.h"
 #include <elapsedMillis.h>
 
 
@@ -28,7 +28,7 @@
 
 #define STEPPER_SPEED   1000   //
 #define STEPPER_ACC     3000   //
-#define STEPPER_OFFSET  25
+#define STEPPER_OFFSET  25    // a small amunt of steps to remove backlash 
 
 #define STEPPER_I1      11
 #define STEPPER_I2      10
@@ -37,15 +37,15 @@
 #define STEPPER_DIR     31
 #define STEPPER_SLEEP   3       // L = disable board
 
-#define AS5311_CSn      40
-#define AS5311_CLK      39
-#define AS5311_DO       38
-#define AS5311_PWM      37
-#define AS5311_Index    36
-#define AS5311_A        41
-#define AS5311_B        35
-#define AS5311_MagDECn  15
-#define AS5311_MagNCn   14
+//#define AS5311_CSn      40
+//#define AS5311_CLK      39
+//#define AS5311_DO       38
+//#define AS5311_PWM      37
+//#define AS5311_Index    36
+//#define AS5311_A        41
+//#define AS5311_B        35
+//#define AS5311_MagDECn  15
+//#define AS5311_MagNCn   14
 
 #define ROTARY_ENC_A    33
 #define ROTARY_ENC_B    34
@@ -80,7 +80,7 @@ int shape_three[4][4] = {     \
   {0, 1200, 0, 1200}
 };
 
-int shape_num = -1;
+int shape_num = -1; // this does NOT need to be global
 
 
 //stepper variables
@@ -108,13 +108,13 @@ AccelStepper stepper_13(AccelStepper::DRIVER, STEPPER_13, STEPPER_DIR);
 AccelStepper stepper_14(AccelStepper::DRIVER, STEPPER_14, STEPPER_DIR);
 AccelStepper stepper_15(AccelStepper::DRIVER, STEPPER_15, STEPPER_DIR);
 AccelStepper stepper_16(AccelStepper::DRIVER, STEPPER_16, STEPPER_DIR);
-AccelStepper* steppers[NUM_OF_STEPPERS] = {  
+AccelStepper* steppers[NUM_OF_STEPPERS] = {
   &stepper_1, &stepper_2, &stepper_3, &stepper_4,     \
   &stepper_5, &stepper_6, &stepper_7, &stepper_8,     \
   &stepper_9, &stepper_10, &stepper_11, &stepper_12,  \
   &stepper_13, &stepper_14, &stepper_15, &stepper_16  \
 };
-uint8_t stepper_index = 0;
+uint8_t stepper_index = 0;  // current stepper ?
 int stepper_scaler = 10;     //multiplier
 
 
@@ -138,19 +138,18 @@ Bounce rotary_but = Bounce();
 
 
 //mag enc variables
-AS5311 as5311(38, 39, 40); // data, clock, chip select
-extern "C" uint32_t set_arm_clock(uint32_t frequency);
-elapsedMillis mag_enc_millis;
-const int mag_enc_delay = 25;
-int counter, zeroVal, finalPoint, encoderVal, lastEncoderVal;
-int lastPole = -1;
-float valueMap;
-float offsetValueMap = 0;
+//AS5311 as5311(38, 39, 40); // data, clock, chip select
+//extern "C" uint32_t set_arm_clock(uint32_t frequency);
+//elapsedMillis mag_enc_millis;
+//const int mag_enc_delay = 25;
+//int counter, zeroVal, finalPoint, encoderVal, lastEncoderVal;
+//int lastPole = -1;
+//float valueMap;
+//float offsetValueMap = 0;
 
 void setup() {
   init();
 }
-
 
 void loop() {
   button_handler();
@@ -162,21 +161,10 @@ void loop() {
     inputString = "";
     stringComplete = false;
   }
+  
+  if (isStepperEnabled)
+    rotary_handler();
 
-  if (isStepperEnabled) {
-    fetch_mag_val();
 
 
-    long newPosition = (myEnc.read() / ROTARY_DIVIDER) * stepper_scaler;
-    if (newPosition != oldPosition) {
-      oldPosition = newPosition;
-      //    Serial.print("newPosition: "); Serial.println(newPosition);
-      for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
-        steppers[i]->moveTo(newPosition);
-      }
-    }
-    for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
-      steppers[i]->run();
-    }
-  }
 }
