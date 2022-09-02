@@ -1,3 +1,33 @@
+/**
+ * 5 buttons, up down left right, and the knob has a click
+
+
+
+up: increments an index, this index is assigned to a stepper motor which the knob can manually control (good for calibration)
+
+
+
+down : inverse of up
+
+
+
+left: resets and moves all motors to our 'maximum' (good for calibrating our maximum)
+
+
+
+right: cycles through each pre-programmed shape
+
+
+
+knob click: toggles activation of manual stepper control
+
+
+
+knob rotary action: moves steps on 1 stepper by some multiplier 
+  (you won't see any height change if you move 1 step at a time because there's a gearing system which means you need a lot of steps) 
+    IIRC 6000 steps is roughly the entire range
+ */
+
 #include <Encoder.h>
 #include <AccelStepper.h>
 #include <Bounce2.h>
@@ -74,10 +104,10 @@ int shape_two[4][4] = {     \
   {1200, 1200, 1200, 1200}
 };
 int shape_three[4][4] = {     \
-  {1000, 0, 1200, 0}, \
-  {0, 1200, 0, 1200}, \
-  {1200, 0, 1200, 0}, \
-  {0, 1200, 0, 1200}
+  {0,0,0,0}, \
+  {0,0,0,0}, \
+  {0,0,0,0}, \
+  {0,0,0,0}
 };
 
 int shape_num = -1; // this does NOT need to be global
@@ -115,7 +145,7 @@ AccelStepper* steppers[NUM_OF_STEPPERS] = {
   &stepper_13, &stepper_14, &stepper_15, &stepper_16  \
 };
 uint8_t stepper_index = 0;  // current stepper ?
-int stepper_scaler = 10;     //multiplier
+int stepper_scaler = 50;     //multiplier
 
 
 //serial variables

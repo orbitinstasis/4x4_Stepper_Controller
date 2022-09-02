@@ -59,6 +59,7 @@ void button_handler() {
   // MOVE ALL STEPPERS TO THE MAXIMUM POSITION
   //if left button pushed, reset steppers and reinit to new max speed then move until hit max steps or max magEnc value
   if ( left_but.fell() ) {
+    Serial.print("Left: Moving steppers to max position...\n ");
     reset_steppers();
 
     stepper_driver_power(1);
@@ -67,7 +68,7 @@ void button_handler() {
       steppers[i]->moveTo(6000);    // SOME MAXIMUM, YOU NEED TO TUNE THIS
     }
     elapsedMillis loopDuration = 0;
-    while (loopDuration > 5000) {    // move all the motors to 6000 and block for 5 seconds assuming it's all done by then
+    while (loopDuration > 2000) {    // move all the motors to 6000 and block for 5 seconds assuming it's all done by then
       for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
         //        fetch_mag_val();
         Serial.println(steppers[i]->currentPosition());
@@ -79,18 +80,21 @@ void button_handler() {
       steppers[i]->stop();
       steppers[i]->setMaxSpeed(STEPPER_SPEED);
     }
+    Serial.print("Moved to max.\n");
   }
 
   /////////////////////////////////////////////////////////
 
   // cycle through each shape one by one
+
   if ( right_but.fell() ) {
     if (shape_num < 2)
       shape_num++;
     else
       shape_num = 0;
+    Serial.print("Moving to shape: "); Serial.println(shape_num);
     set_shape();
-    Serial.print("shape_num "); Serial.println(shape_num);
+    Serial.println("moved.");
 
   }
 
@@ -100,7 +104,8 @@ void button_handler() {
   if ( up_but.fell() ) {
     if (stepper_index < NUM_OF_STEPPERS - 1)
       stepper_index++;
-    oldPosition = 99999;
+    myEnc.write(0);
+//    oldPosition = 99999;
     Serial.print("Stepper index: "); Serial.println(stepper_index);
   }
 
@@ -110,7 +115,8 @@ void button_handler() {
   if ( down_but.fell() ) {
     if (stepper_index > 0)
       stepper_index--;
-    oldPosition = 99999;
+    myEnc.write(0);
+//    oldPosition = 99999;
     Serial.print("Stepper index: "); Serial.println(stepper_index);
   }
 
@@ -140,12 +146,13 @@ void rotary_handler() {
 
 // reset Steppers:
 void reset_steppers() {
+  Serial.print("Resetting... ");
   stepper_driver_power(1); // turn steppers on
   for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
     steppers[i]->moveTo(-4000);             // move all steppers to an obviuosly out of bounds extreme position so they all reset.
   }
   unsigned long time_now = millis();
-  while (millis() - time_now <= 3000) {
+  while (millis() - time_now <= 2000) {
     for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
       steppers[i]->run();                   // move the motors for a few secnds
     }
@@ -170,6 +177,9 @@ void reset_steppers() {
   //  fetch_mag_val();
   //  offsetValueMap = valueMap;
   delay(5);
+  myEnc.write(0);
+  oldPosition = 99999;
+  Serial.print("Reset.\n");
 }
 
 
@@ -191,7 +201,7 @@ void set_shape() {
   int count = 0;
   for (uint8_t i = 0; i < 4; i++) {   // for each 2D cell, look at global shape num var and move all steppers sequentially to the assigned positions
     for (uint8_t j = 0; j < 4; j++) {
-      switch (shape_num) {
+      switch (shape_num) {   // stick shapes into an array and cycle them that way, not with a switch case 
         case 0:
           steppers[count]->moveTo(shape_one[i][j]);
           break;
