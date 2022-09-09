@@ -1,32 +1,32 @@
 /**
- * 5 buttons, up down left right, and the knob has a click
+   5 buttons, up down left right, and the knob has a click
 
 
 
-up: increments an index, this index is assigned to a stepper motor which the knob can manually control (good for calibration)
+  up: increments an index, this index is assigned to a stepper motor which the knob can manually control (good for calibration)
 
 
 
-down : inverse of up
+  down : inverse of up
 
 
 
-left: resets and moves all motors to our 'maximum' (good for calibrating our maximum)
+  left: resets and moves all motors to our 'maximum' (good for calibrating our maximum)
 
 
 
-right: cycles through each pre-programmed shape
+  right: cycles through each pre-programmed shape
 
 
 
-knob click: toggles activation of manual stepper control
+  knob click: toggles activation of manual stepper control
 
+  LOOK AT THE MAIN LOOP TO SEE SERIAL CHARACTER DEFINITIONS
 
-
-knob rotary action: moves steps on 1 stepper by some multiplier 
-  (you won't see any height change if you move 1 step at a time because there's a gearing system which means you need a lot of steps) 
+  knob rotary action: moves steps on 1 stepper by some multiplier
+  (you won't see any height change if you move 1 step at a time because there's a gearing system which means you need a lot of steps)
     IIRC 6000 steps is roughly the entire range
- */
+*/
 
 #include <Encoder.h>
 #include <AccelStepper.h>
@@ -66,6 +66,7 @@ knob rotary action: moves steps on 1 stepper by some multiplier
 #define STEPPER_MS2     12
 #define STEPPER_DIR     31
 #define STEPPER_SLEEP   3       // L = disable board
+#define STEPPER_MAX     1400 - STEPPER_OFFSET
 
 //#define AS5311_CSn      40
 //#define AS5311_CLK      39
@@ -89,26 +90,43 @@ knob rotary action: moves steps on 1 stepper by some multiplier
 #define DEBUG_BTN_UP    22
 #define DEBUG_BTN_DOWN  21
 
+int count = 0; // keep count of number of shapes you've cycled without resetting
+int diffs[4][4]; // store the differences between current shape and next shape
 
-// shape variables
+#define NUM_OF_SHAPES 4
+//shapes are actually read bottom left to top right
 int shape_one[4][4] = {     \
   {1200, 1200, 1200, 1200}, \
-  {800, 800, 800, 800}, \
-  {400, 400, 400, 400}, \
-  {0, 0, 0, 0}
-};
-int shape_two[4][4] = {     \
   {1200, 1200, 1200, 1200}, \
-  {1200, 1200, 1200, 1200}, \
-  {1200, 1200, 1200, 1200}, \
+  {1, 1200, 1200, 1200}, \
   {1200, 1200, 1200, 1200}
 };
-int shape_three[4][4] = {     \
-  {0,0,0,0}, \
-  {0,0,0,0}, \
-  {0,0,0,0}, \
-  {0,0,0,0}
+
+int shape_two[4][4] = {     \
+  {700, 700, 700, 700},     \
+  {700, 700, 700, 700},     \
+  {700, 700, 700, 700},     \
+  {2, 700, 700, 700}
 };
+
+int shape_three[4][4] = {   \
+  {3, 0, 0, 0},     \
+  {0, 0, 0, 0},     \
+  {0, 0, 0, 0},     \
+  {0, 0, 0, 0}
+};
+
+int shape_four[4][4] = {    \
+  {400, 400, 400, 400},     \
+  {4, 400, 400, 400},     \
+  {400, 400, 400, 400},      \
+  {400, 400, 400, 400}
+};
+
+//int shapes[4][4][4] = {{{shape_one, shape_two, shape_three, shape_four}}};
+typedef int heights[4][4];
+heights *shapes[4] = {&shape_one, &shape_two, &shape_three, &shape_four};
+
 
 int shape_num = -1; // this does NOT need to be global
 
@@ -121,6 +139,7 @@ uint8_t stepper_array[NUM_OF_STEPPERS] = {
   STEPPER_13, STEPPER_14, STEPPER_15, STEPPER_16  \
 };
 bool isStepperEnabled = false;
+bool isManualControl = false;
 
 AccelStepper stepper_1(AccelStepper::DRIVER, STEPPER_1, STEPPER_DIR);
 AccelStepper stepper_2(AccelStepper::DRIVER, STEPPER_2, STEPPER_DIR);
@@ -181,20 +200,83 @@ void setup() {
   init();
 }
 
+// we move to the new thing
+void cycleShapes() {
+  for (int s = 0; s < NUM_OF_SHAPES; s++) {
+    Serial.print("Moving to shape: "); Serial.println(s);
+    int count = 0; // cycle each stepper
+    for (int i = 0; i < 4; i++) {
+      for (int j = 0; j < 4; j++) {
+        if ( s < NUM_OF_SHAPES) {
+          steppers[count]->moveTo((*shapes[s])[i][j]);; // not messing with sign as it dictates direction
+          Serial.print((*shapes[s])[i][j]);
+          if (j < 3)
+            Serial.print(", ");
+        }
+      }
+      Serial.println();
+    }
+    unsigned long time_now = millis();
+    while (millis() - time_now <= 2000) {
+      for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
+        steppers[i]->run();                   // move the motors for a few secnds
+      }
+    }
+  }
+}
+
 void loop() {
   button_handler();
-
   if (stringComplete) {
     inputString.trim();
-    int in = inputString.toInt();
-    Serial.println(in);
+    char character = inputString[0];
+    switch (character) {
+      case 'R': //reset
+        reset_steppers();
+        break;
+      case 'D': //debug,
+        findMax();
+        break;
+      case 'c': //cycle shapes and show next difference
+        cycleShapes();
+        break;
+      case 's':  //show shapes and the difference between this and the last
+        for (int s = 0; s < 4; s++) {
+          for (int i = 0; i < 4; i++) {
+            for (int j = 0; j < 4; j++) {
+              Serial.print((*shapes[s])[i][j]);
+              if (j < 3)
+                Serial.print(", ");
+            }
+            Serial.println();
+          }
+          Serial.println();
+        }
+        break;
+      case 'e': // this is a bit fucky
+        encoderButton();
+        break;
+      case 'u':
+        upButton();
+        break;
+      case 'd':
+        downButton();
+        break;
+      case 'l':
+        leftButton(); // previous shape
+        break;
+      case 'r':
+        rightButton(); // next shape
+        break;
+      default:
+        Serial.println("Try again");
+    }
+    Serial.println("\n");
     inputString = "";
     stringComplete = false;
   }
-  
-  if (isStepperEnabled)
+  if (isManualControl) {
+    //    Serial.println("FUCK");
     rotary_handler();
-
-
-
+  }
 }

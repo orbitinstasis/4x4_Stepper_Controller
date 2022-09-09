@@ -44,88 +44,93 @@ void init() {
   rotary_but.interval(25);
 }
 
+// MOVE ALL STEPPERS TO THE MAXIMUM POSITION
+//if left button pushed, reset steppers and reinit to new max speed then move until hit max steps or max magEnc value
+void findMax() {
+  Serial.print("Debug: Moving steppers to max position...\n ");
+  reset_steppers();
+  stepper_driver_power(1);
+  elapsedMillis loopDuration = 0;
+  while (loopDuration < 2000) {    // move all the motors to 6000 and block for 5 seconds assuming it's all done by then
+    for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
+      //        fetch_mag_val();
+      steppers[i]->moveTo(STEPPER_MAX);
+      //      Serial.println(steppers[i]->currentPosition());
+      //        if ((valueMap  - offsetValueMap>= 6) || (steppers[i]->currentPosition() >=4000)) { // second condition not meeting
+      steppers[i]->run();
+    }
+  }
+  for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) { // stop the steppers and reset the max speed
+    steppers[i]->stop();
+  }
+  Serial.print("Moved to max.\n");
+}
 
-//
+// go to the previous shape
+void leftButton() {
+  if (shape_num > 0)
+    shape_num--;
+  else
+    shape_num = NUM_OF_SHAPES - 1;
+  set_shape();
+}
+
+// go to the next shape
+void rightButton() {
+  if (shape_num < NUM_OF_SHAPES - 1)
+    shape_num++;
+  else
+    shape_num = 0;
+  set_shape();
+}
+
+// move the stepper index up so the rotary knob moves it manually, reset the old position
+void upButton() {
+  if (stepper_index < NUM_OF_STEPPERS - 1)
+    stepper_index++;
+  myEnc.write(0);
+  //    oldPosition = 99999;
+  Serial.print("Stepper index: "); Serial.println(stepper_index);
+
+}
+
+// move the stepper index down so the rotary knob moves it manually
+void downButton() {
+  if (stepper_index > 0)
+    stepper_index--;
+  myEnc.write(0);
+  //    oldPosition = 99999;
+  Serial.print("Stepper index: "); Serial.println(stepper_index);
+}
+
+//  toggles manual calibration activation for each stepper
+void encoderButton() {
+  isManualControl = !isManualControl;
+  stepper_driver_power(isManualControl);
+  Serial.print("Steppers enable: "); Serial.println(isStepperEnabled);
+}
+
+//poll button state
 void button_handler() {
-  //check buttons
   left_but.update();
   right_but.update();
   up_but.update();
   down_but.update();
   rotary_but.update();
-
-  /////////////////////////////////////////////////////////
-
-  // MOVE ALL STEPPERS TO THE MAXIMUM POSITION
-  //if left button pushed, reset steppers and reinit to new max speed then move until hit max steps or max magEnc value
   if ( left_but.fell() ) {
-    Serial.print("Left: Moving steppers to max position...\n ");
-    reset_steppers();
-
-    stepper_driver_power(1);
-    for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
-      steppers[i]->setMaxSpeed(200);
-      steppers[i]->moveTo(6000);    // SOME MAXIMUM, YOU NEED TO TUNE THIS
-    }
-    elapsedMillis loopDuration = 0;
-    while (loopDuration > 2000) {    // move all the motors to 6000 and block for 5 seconds assuming it's all done by then
-      for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
-        //        fetch_mag_val();
-        Serial.println(steppers[i]->currentPosition());
-        //        if ((valueMap  - offsetValueMap>= 6) || (steppers[i]->currentPosition() >=4000)) { // second condition not meeting
-        steppers[i]->run();
-      }
-    }
-    for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) { // stop the steppers and reset the max speed
-      steppers[i]->stop();
-      steppers[i]->setMaxSpeed(STEPPER_SPEED);
-    }
-    Serial.print("Moved to max.\n");
+    leftButton();
   }
-
-  /////////////////////////////////////////////////////////
-
-  // cycle through each shape one by one
-
   if ( right_but.fell() ) {
-    if (shape_num < 2)
-      shape_num++;
-    else
-      shape_num = 0;
-    Serial.print("Moving to shape: "); Serial.println(shape_num);
-    set_shape();
-    Serial.println("moved.");
-
+    rightButton();
   }
-
-  /////////////////////////////////////////////////////////
-
-  // move the stepper index up so the rotary knob moves it manually, reset the old position
   if ( up_but.fell() ) {
-    if (stepper_index < NUM_OF_STEPPERS - 1)
-      stepper_index++;
-    myEnc.write(0);
-//    oldPosition = 99999;
-    Serial.print("Stepper index: "); Serial.println(stepper_index);
+    upButton();
   }
-
-  /////////////////////////////////////////////////////////
-
-  // move the stepper index down so the rotary knob moves it manually
   if ( down_but.fell() ) {
-    if (stepper_index > 0)
-      stepper_index--;
-    myEnc.write(0);
-//    oldPosition = 99999;
-    Serial.print("Stepper index: "); Serial.println(stepper_index);
+    downButton();
   }
-
-  /////////////////////////////////////////////////////////
-
-  //  toggles manual calibration activation for each stepper
   if ( rotary_but.fell() ) {
-    stepper_driver_power(!isStepperEnabled);
-    Serial.print("Steppers enable: "); Serial.println(isStepperEnabled);
+    encoderButton();
   }
 }
 
@@ -142,11 +147,13 @@ void rotary_handler() {
     //    steppers[stepper_index]->moveTo(newPosition);
     steppers[stepper_index]->runToNewPosition(newPosition);  // this should block until done
   }
+  isStepperEnabled = false;
 }
 
 // reset Steppers:
 void reset_steppers() {
   Serial.print("Resetting... ");
+  isManualControl = 0; 
   stepper_driver_power(1); // turn steppers on
   for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
     steppers[i]->moveTo(-4000);             // move all steppers to an obviuosly out of bounds extreme position so they all reset.
@@ -178,6 +185,7 @@ void reset_steppers() {
   //  offsetValueMap = valueMap;
   delay(5);
   myEnc.write(0);
+  count = 0;
   oldPosition = 99999;
   Serial.print("Reset.\n");
 }
@@ -197,20 +205,11 @@ void stepper_driver_power(bool in) {
 
 // moves the steppers to the predefined shapes
 void set_shape() {
-  reset_steppers();         // reset steppers to a known 0 point
+  Serial.print("Moving to shape: "); Serial.println(shape_num);
   int count = 0;
   for (uint8_t i = 0; i < 4; i++) {   // for each 2D cell, look at global shape num var and move all steppers sequentially to the assigned positions
     for (uint8_t j = 0; j < 4; j++) {
-      switch (shape_num) {   // stick shapes into an array and cycle them that way, not with a switch case 
-        case 0:
-          steppers[count]->moveTo(shape_one[i][j]);
-          break;
-        case 1:
-          steppers[count]->moveTo(shape_two[i][j]);
-          break;
-        case 2:
-          steppers[count]->moveTo(shape_three[i][j]);
-      }
+      steppers[count]->moveTo((*shapes[shape_num])[i][j]);; // not messing with sign as it dictates direction
       count++;
     }
   }
@@ -226,6 +225,7 @@ void set_shape() {
   //    steppers[i]->setCurrentPosition(0);       // delete if necessary, this resets the current position to 0 [i think this is wrong logic here so i deleted]
   //  }
   stepper_driver_power(0);            // turn the steppers off
+  Serial.println("Moved to shape.");
 }
 
 
