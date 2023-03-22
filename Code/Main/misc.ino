@@ -3,16 +3,16 @@ void init() {
   Serial.begin(115200);
   inputString.reserve(200);  // hack: reserve 200 bytes for the inputString:
 
-  // stepper driver setups
-  analogWriteFrequency(STEPPER_I1, PWM_FREQ);
+
   for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
     steppers[i]->setMaxSpeed(STEPPER_SPEED);
     steppers[i]->setAcceleration(STEPPER_ACC);
   }
-
+  // stepper driver setups
+  analogWriteFrequency(STEPPER_I1, PWM_FREQ);
   //stepper driver pins setup
   pinMode(STEPPER_I1, OUTPUT);
-  analogWrite(STEPPER_I1, 250);
+  analogWrite(STEPPER_I1, 235);
   pinMode(STEPPER_I2, OUTPUT);
   digitalWrite(STEPPER_I2, LOW);
   pinMode(STEPPER_MS1, OUTPUT);
@@ -153,7 +153,7 @@ void rotary_handler() {
 // reset Steppers:
 void reset_steppers() {
   Serial.print("Resetting... ");
-  isManualControl = 0; 
+  isManualControl = 0;
   stepper_driver_power(1); // turn steppers on
   for (uint8_t i = 0; i < NUM_OF_STEPPERS; i++) {
     steppers[i]->moveTo(-4000);             // move all steppers to an obviuosly out of bounds extreme position so they all reset.

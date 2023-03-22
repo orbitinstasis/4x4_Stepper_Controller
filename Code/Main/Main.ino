@@ -54,7 +54,7 @@
 #define STEPPER_16      28
 
 #define NUM_OF_STEPPERS 16
-#define PWM_FREQ        10000
+#define PWM_FREQ        1000
 
 #define STEPPER_SPEED   1000   //
 #define STEPPER_ACC     3000   //
@@ -164,7 +164,7 @@ AccelStepper* steppers[NUM_OF_STEPPERS] = {
   &stepper_13, &stepper_14, &stepper_15, &stepper_16  \
 };
 uint8_t stepper_index = 0;  // current stepper ?
-int stepper_scaler = 50;     //multiplier
+int stepper_scaler = 100;     //multiplier
 
 
 //serial variables
@@ -231,6 +231,7 @@ void loop() {
     inputString.trim();
     char character = inputString[0];
     switch (character) {
+
       case 'R': //reset
         reset_steppers();
         break;
